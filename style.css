@@ -4,7 +4,7 @@ body{
     align-items:centre;
     min-height: 100vh;
     margin: 0;
-    background: url(Garvi-Sorry-Image.jpg) center / cover no-repeat fixed;
+    background: url(Sweet-Picture.jpg) center / cover no-repeat fixed;
     border-radius: 24px;
     background-size: contain;
     background-repeat: no-repeat;
@@ -128,3 +128,4 @@ input[type="submit"]:hover {
     transition: opacity 0.5s ease-in-out; 
     text-align: center; 
 }
+
